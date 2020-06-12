@@ -1,0 +1,4 @@
+2020-06-12 17:46:57,485 INFO [root] [__init__.py(<module>:5)] - Test日志会不会打印！！！
+2020-06-12 17:46:57,802 INFO [root] [test01_ihrm_login.py(test01_login_success:29)] - {'success': True, 'code': 10000, 'message': '操作成功！', 'data': 'f81c418c-ed0d-468d-87ef-a70aac7d39bb'}
+2020-06-12 17:46:57,855 INFO [root] [test01_ihrm_login.py(test01_login_success:29)] - {'success': True, 'code': 10000, 'message': '操作成功！', 'data': '801b22a5-0886-4b50-91fc-c6fe28ac0125'}
+2020-06-12 17:46:57,906 INFO [root] [test01_ihrm_login.py(test01_login_success:29)] - {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}

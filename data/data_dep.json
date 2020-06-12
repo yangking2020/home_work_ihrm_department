@@ -1,0 +1,29 @@
+{
+"add_dep": {
+  "name": "华山派",
+  "dep_code": "02015",
+  "http_code": 200,
+  "success": true,
+  "code": 10000,
+  "message": "操作成功"
+},
+  "query_dep": {
+    "http_code": 200,
+    "success": true,
+    "code": 10000,
+    "message": "操作成功"
+},
+  "modify_dep": {
+    "modify": {"name":"光明顶"},
+    "http_code": 200,
+    "success": true,
+    "code": 10000,
+    "message": "操作成功"
+},
+  "delete_dep": {
+    "http_code": 200,
+    "success": true,
+    "code": 10000,
+    "message": "操作成功"
+}
+}

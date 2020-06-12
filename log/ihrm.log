@@ -1,0 +1,10 @@
+2020-06-12 18:21:19,529 INFO [root] [__init__.py(<module>:5)] - Test日志会不会打印！！！
+2020-06-12 18:21:19,776 INFO [root] [test01_ihrm_login.py(test01_login_success:29)] - {'success': True, 'code': 10000, 'message': '操作成功！', 'data': 'fcae60c8-5aae-40f7-bdc2-0538f403daab'}
+2020-06-12 18:21:19,827 INFO [root] [test01_ihrm_login.py(test01_login_success:29)] - {'success': True, 'code': 10000, 'message': '操作成功！', 'data': 'f90a3d6d-4aad-4112-a76c-9797a81312c6'}
+2020-06-12 18:21:19,876 INFO [root] [test01_ihrm_login.py(test01_login_success:29)] - {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-06-12 18:21:19,930 INFO [root] [test02_ihrm_dep.py(test01_login_success:31)] - {'success': True, 'code': 10000, 'message': '操作成功！', 'data': 'fe55049c-dcd4-4f43-a11e-b1463c650ca5'}
+2020-06-12 18:21:19,985 INFO [root] [test02_ihrm_dep.py(test02_add_dep:43)] - {'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1271387177602854912'}}
+2020-06-12 18:21:19,985 INFO [root] [test02_ihrm_dep.py(test02_add_dep:46)] - 1271387177602854912
+2020-06-12 18:21:20,044 INFO [root] [test02_ihrm_dep.py(test03_query_dep:55)] - {'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1271387177602854912', 'pid': '测试部', 'companyId': '1', 'name': '华山派', 'code': '02015', 'managerId': None, 'manager': '淘气', 'introduce': '1', 'createTime': None}}
+2020-06-12 18:21:20,090 INFO [root] [test02_ihrm_dep.py(test04_modify_dep:65)] - {'success': True, 'code': 10000, 'message': '操作成功！', 'data': None}
+2020-06-12 18:21:20,134 INFO [root] [test02_ihrm_dep.py(test05_delete_dep:74)] - {'success': True, 'code': 10000, 'message': '操作成功！', 'data': None}

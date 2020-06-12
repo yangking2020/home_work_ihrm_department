@@ -1,0 +1,7 @@
+2020-06-12 18:14:53,625 INFO [root] [__init__.py(<module>:5)] - Test日志会不会打印！！！
+2020-06-12 18:14:54,231 INFO [root] [test02_ihrm_dep.py(test01_login_success:33)] - {'success': True, 'code': 10000, 'message': '操作成功！', 'data': '00171df1-15d8-47b7-a72c-88ed297153d2'}
+2020-06-12 18:14:54,285 INFO [root] [test02_ihrm_dep.py(test02_add_dep:45)] - {'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1271385559851413504'}}
+2020-06-12 18:14:54,285 INFO [root] [test02_ihrm_dep.py(test02_add_dep:48)] - 1271385559851413504
+2020-06-12 18:14:54,339 INFO [root] [test02_ihrm_dep.py(test03_query_dep:57)] - {'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1271385559851413504', 'pid': '测试部', 'companyId': '1', 'name': '华山派', 'code': '02015', 'managerId': None, 'manager': '淘气', 'introduce': '1', 'createTime': None}}
+2020-06-12 18:14:54,402 INFO [root] [test02_ihrm_dep.py(test04_modify_dep:67)] - {'success': True, 'code': 10000, 'message': '操作成功！', 'data': None}
+2020-06-12 18:14:54,466 INFO [root] [test02_ihrm_dep.py(test05_delete_dep:76)] - {'success': True, 'code': 10000, 'message': '操作成功！', 'data': None}
